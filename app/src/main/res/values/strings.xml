@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="add_category">Add Category</string>
+    <string name="add_computer">Add Computer</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
